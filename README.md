@@ -1,2 +1,2 @@
 # OplaPedometer
-Arduino code for a Pedometer.
+Arduino code for a wearable Pedometer.
